@@ -11,6 +11,7 @@
 # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 # See the License for the specific language governing permissions and
 # limitations under the License.
+# Dummy
 """Binary for evaluating Tensorflow models on the YouTube-8M dataset."""
 
 import time
